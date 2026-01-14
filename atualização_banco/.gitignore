@@ -1,0 +1,14 @@
+# Ignorar arquivos temporários, logs e backups
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+.env
+.vscode/
+
+# Arquivo de checklist dos clientes
+checking_clientes.md
